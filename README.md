@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions :smiley:
+# Hello GitHub Actions :smiley: :wink:
 
 _Create a GitHub Action and use it in a workflow._
 
